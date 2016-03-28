@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 CRON=${CRON:-"0 1 * * *"}
 ES_HOST=${ES_HOST:-"elasticsearch"}
